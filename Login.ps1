@@ -16,5 +16,5 @@ function Get-Login
     }
 }
 
-
+# Chama a função Get-Login
 Get-Login
